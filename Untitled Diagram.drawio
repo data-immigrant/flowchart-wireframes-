@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T23:29:22.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BsVkOer8JGITKE5dQVMl" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T00:03:24.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hx8SSa-9RvHTRDvAk9za" version="14.0.0" type="github" pages="4">
   <diagram id="ubl3bhUYu1To4sH9TIaJ" name="create profile">
     <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,11 +82,14 @@
         <mxCell id="181y0buaZu7F3BsmVMhp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="181y0buaZu7F3BsmVMhp-2" target="181y0buaZu7F3BsmVMhp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tZwT3JEyYjsOoMYNZL7W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="181y0buaZu7F3BsmVMhp-2" target="tZwT3JEyYjsOoMYNZL7W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="181y0buaZu7F3BsmVMhp-2" value="My worksapce" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="532.5" width="130" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="181y0buaZu7F3BsmVMhp-6" value="edit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="610" width="80" height="40" as="geometry" />
+        <mxCell id="181y0buaZu7F3BsmVMhp-6" value="edit profile" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="181y0buaZu7F3BsmVMhp-12" value="OPPORTUNITIES" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="140" width="110" height="40" as="geometry" />
@@ -103,6 +106,45 @@
         <mxCell id="181y0buaZu7F3BsmVMhp-15" value="current Location" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="270" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tZwT3JEyYjsOoMYNZL7W-1" value="&amp;nbsp;begin journey" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_irE9WeNvcRDLhpVm3KQ" name="cognitive">
+    <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="z_wmKSJWrfhppS5c4zGg-0" />
+        <mxCell id="z_wmKSJWrfhppS5c4zGg-1" parent="z_wmKSJWrfhppS5c4zGg-0" />
+        <mxCell id="QlLW24_sY3t9Y9FAhlSf-0" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="z_wmKSJWrfhppS5c4zGg-1">
+          <mxGeometry x="305" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QlLW24_sY3t9Y9FAhlSf-1" value="CHATBOT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="z_wmKSJWrfhppS5c4zGg-1">
+          <mxGeometry x="315" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8wvl8NPmVNUm8q4Jzdlg-0" value="My workspace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="z_wmKSJWrfhppS5c4zGg-1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wvl8NPmVNUm8q4Jzdlg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=center;" vertex="1" parent="z_wmKSJWrfhppS5c4zGg-1">
+          <mxGeometry x="40" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eVzxJE4VLDxFH3oPwCVp" name="emotional">
+    <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="FlOP3iAIT-MdsPMpCc3Z-0" />
+        <mxCell id="FlOP3iAIT-MdsPMpCc3Z-1" parent="FlOP3iAIT-MdsPMpCc3Z-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Tv-UhHzCFnmre8xJdTMA" name="action">
+    <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="3OiZbRy8fMtkmdGt3xXP-0" />
+        <mxCell id="3OiZbRy8fMtkmdGt3xXP-1" parent="3OiZbRy8fMtkmdGt3xXP-0" />
       </root>
     </mxGraphModel>
   </diagram>
